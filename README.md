@@ -1,6 +1,11 @@
 # MINIFIGS
-
 A small application for tracking Lego Minifigures.
+
+- Filename: PROJECT-OUTLINE.md
+- Project : minifigs
+- Author  : Adrian Gould
+- Created : 10/4/20
+- Version : 1.0
 
 ## Acknowledgement 
 
@@ -75,10 +80,6 @@ The owners of the trademarks of products used in this application include:
  Database, PHP, Python, Git (and much more) system
 * [Packt Publishing](http://packtpub.com) - books and courses on software, web, AI, Big 
  Data development and more.
-
-## Author
-
-Project created by Adrian Gould.
 
 ## Feedback
 
