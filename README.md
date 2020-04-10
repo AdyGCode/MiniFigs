@@ -1,6 +1,6 @@
 # MINIFIGS
 
-![MiniFigsDB Logo](https://raw.githubusercontent.com/AdyGCode/MiniFigs/master/Documentation/Favicons/MinifigDB-Dev-03.svg "Minifigs Database App Logo")
+![MiniFigsDB Logo](Documentation/Favicons/MinifigDB-Dev-03.svg "Minifigs Database App Logo")
 
 A small application for tracking Lego Minifigures.
 
