@@ -13,10 +13,25 @@
 - Check in all code
 - Push to remote repository 
 - Test using `php artisan serve`
+- Development v Testing v Production
+- Views
+    - Basic Views
+    - Master Views
+    - Basic Partials
+    - Integrating Web Frameworks
+- Routing
+    - Simple Routing
+- Controller
+    - Basic 'static page' Controller
+    - About Page
+    - Contact Page
+    - Dummy Page
 
 ## Stage 1
 - Migration for Minifigs
 - Model for Minifigs
+- Controller for Minifigs
+- Routing for Minifigs (Long Hand)
 - Basic BREAD Pages
     - Browse Minifigs
     - Read Minifig
@@ -29,9 +44,11 @@
 ## Stage 2
 - Migration for Series
 - Model for Series
-- Restful Controller
+- Controller for Series
+- Routing
+    - Restful routing
 - BREAD
-    - Read - Series + Minifigs in series
+    - Read - Series & Minifigs (Item - Detail)
 
 ## Stage 3
 - Migrate Users
@@ -55,9 +72,14 @@
     - Edit Figure status (Qty Owned, Qty Wanted)
     - Add figure to user collection
     - Delete Figure from user collection
-
+    
 ## Stage 6
 - API Development
 - REST vs SOAP
+- Securing the API
+- Testing the API
 
-## Stage 6
+## Stage 7
+- Staging
+- Deployment (Beta)
+- Testing
