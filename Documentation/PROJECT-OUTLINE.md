@@ -2,7 +2,7 @@
 
 - Filename: PROJECT-OUTLINE.md
 - Project : minifigs
-- Author  : Adrian Gould
+- Author  : Adrian Gould <Ady.G.Coder@gmail.com>
 - Created : 10/4/20
 - Version : 1.0
 

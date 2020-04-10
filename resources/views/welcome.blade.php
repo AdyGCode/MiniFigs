@@ -62,6 +62,11 @@
                 margin-bottom: 30px;
             }
         </style>
+
+        <link rel="icon" type="image/png" sizes="96x96" href="{{url('/favicon-96x96.png')}}">
+        <link rel="icon" type="image/png" sizes="32x32" href="{{url('/favicon-32x32.png')}}">
+        <link rel="icon" type="image/png" sizes="16x16" href="{{url('/favicon-16x16.png')}}">
+
     </head>
     <body>
         <div class="flex-center position-ref full-height">

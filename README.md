@@ -1,11 +1,15 @@
 # MINIFIGS
+
+![MiniFigsDB Logo](https://github.com/AdyGCode/MiniFigs/Documentation/Favicons/MinifigDB-Dev-03
+.svg "Minifigs Database App Logo")
+
 A small application for tracking Lego Minifigures.
 
 - Filename: PROJECT-OUTLINE.md
 - Project : minifigs
-- Author  : Adrian Gould
+- Author  : Adrian Gould <Ady.G.Coder@gmail.com>
 - Created : 10/4/20
-- Version : 1.0
+- Version : 1.1
 
 ## Acknowledgement 
 
@@ -43,15 +47,10 @@ that may include, but are not limited to:
 * Owned MiniFigs migration, BREAD operations
  
 
-### BREAD
+## Documentation
 
-**BREAD** stands for *B*rowse, *R*etrieve, *E*dit, *A*dd and *D*elete.
- 
-* Browse - read many of the items of data and 'display' or 'deliver' to an API end-point
-* Read - read one item of data and display/deliver
-* Edit - alter a single item of data and update the database
-* Add - add a new item of data to the database
-* Delete - remove an item of data from the database
+Please find further documentation, base `favicons` and other items in the [Documentation
+](Documentation) folder.
 
 
 ## License

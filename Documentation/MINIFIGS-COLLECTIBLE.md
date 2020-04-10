@@ -4,7 +4,7 @@ A list of Minifigure characters that are part of the Lego Collectible MiniFig se
 
 - Filename: MINIFIGS-COLLECTIBLES.md
 - Project : minifigs
-- Author  : adrian
+- Author  : Adrian Gould <Ady.G.Coder@gmail.com>
 - Created : 10/4/20
 - Version : 0.1
 
